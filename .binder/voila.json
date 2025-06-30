@@ -1,0 +1,7 @@
+{
+  "VoilaConfiguration": {
+    "theme": "light",
+    "template": "material",
+    "enable_nbextensions": true
+  }
+}
