@@ -1,4 +1,4 @@
-ipywidgets
-matplotlib
 numpy
+matplotlib
+ipywidgets>=7.6
 voila
