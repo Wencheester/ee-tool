@@ -1,7 +1,5 @@
 {
-  "VoilaConfiguration": {
-    "theme": "light",
-    "template": "material",
-    "enable_nbextensions": true
+  "voila": {
+    "strip_sources": true
   }
 }
